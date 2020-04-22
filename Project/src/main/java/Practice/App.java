@@ -15,6 +15,6 @@ public class App
         
         System.out.println("The sum is = " + c);
         System.out.println("There is a change in this branch");
-        
+        System.out.println("There is a 2nd change in the same branch");
     }
 }
