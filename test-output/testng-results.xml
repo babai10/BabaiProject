@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26354" started-at="2020-05-30T16:20:25Z" finished-at="2020-05-30T16:20:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26354" started-at="2020-05-30T16:20:25Z" finished-at="2020-05-30T16:20:51Z">
+      <class name="functionLib.ItemAdd">
+        <test-method status="PASS" signature="LaunchSite()[pri:0, instance:functionLib.ItemAdd@ffaa6af]" name="LaunchSite" is-config="true" duration-ms="3713" started-at="2020-05-30T21:50:25Z" finished-at="2020-05-30T21:50:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchSite -->
+        <test-method status="PASS" signature="addItemToCart()[pri:0, instance:functionLib.ItemAdd@ffaa6af]" name="addItemToCart" duration-ms="17677" started-at="2020-05-30T21:50:29Z" finished-at="2020-05-30T21:50:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemToCart -->
+        <test-method status="PASS" signature="removeItem()[pri:0, instance:functionLib.ItemAdd@ffaa6af]" name="removeItem" duration-ms="4520" started-at="2020-05-30T21:50:47Z" finished-at="2020-05-30T21:50:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeItem -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:functionLib.ItemAdd@ffaa6af]" name="endTest" is-config="true" duration-ms="414" started-at="2020-05-30T21:50:51Z" finished-at="2020-05-30T21:50:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- functionLib.ItemAdd -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
